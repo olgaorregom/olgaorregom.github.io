@@ -345,9 +345,9 @@ h6 {
 }
 
 #hero img {
-  margin: 0 0 20px 0;
+  margin: 100px 0 10px 0;
   font-size: 600px;
-  width: 350px;
+  width: 320px;
   color: #fff;
 }
 
@@ -764,7 +764,7 @@ section {
 # Mis servicios
 --------------------------------------------------------------*/
 .portfolio1 .icon-box {
-  padding: 200px 100px;
+  padding: 200px 50px;
   position: relative;
   overflow: hidden;
   transition: all 0.3s ease-in-out;
